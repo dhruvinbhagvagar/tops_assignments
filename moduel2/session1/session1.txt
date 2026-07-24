@@ -1,0 +1,68 @@
+1. What is a Program?
+A program is a set of instructions written in a programming language that tells a computer or mobile device what to do.
+It helps perform specific tasks automatically and efficiently. For example, when I use Instagram, 
+the program loads my feed, displays posts and reels, and lets me like, comment, and share content.
+
+2. Three Popular Programming Languages
+
+| Programming Language | Type         |
+| -------------------- | ------------ |
+| Java                 | Compiled     |
+| Python               | Interpreted  |
+| JavaScript           | Interpreted  |
+
+3. Flowchart for Booking a Movie Ticket on BookMyShow
+
+Start
+  |
+  v
+Open BookMyShow App
+  |
+  v
+Select City
+  |
+  v
+Choose Movie
+  |
+  v
+Select Theatre & Show Time
+  |
+  v
+Choose Seats
+  |
+  v
+Proceed to Payment
+  |
+  v
+Make Payment
+  |
+  v
+Payment Successful?
+   |           |
+  No          Yes
+   |           |
+Retry      Receive Booking
+Payment    Confirmation
+   |           |
+    -----------
+        |
+        v
+       End
+
+4. Algorithm for Ordering Food on Swiggy
+
+1. Start.
+2. Open the Swiggy app.
+3. Log in to your account (if required).
+4. Enter or confirm your delivery location.
+5. Search for a restaurant or food item.
+6. Select the restaurant.
+7. Choose the food items.
+8. Add the items to the cart.
+9. Review the order.
+10. Proceed to checkout.
+11. Select the payment method.
+12. Complete the payment.
+13. Receive order confirmation.
+14. Track the delivery.
+15. End.
